@@ -9,7 +9,7 @@
     <dependency>
       <groupId>org.jenkins-ci.plugins</groupId>
       <artifactId>mock-slave</artifactId>
-      <version>193.v88c279d0c584</version>
+      <version>218.v7618149108cf</version>
     </dependency>
   </dependencies>
   <repositories>
